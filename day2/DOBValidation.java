@@ -1,4 +1,4 @@
-package day2.userValidation;
+package day2;
 import java.util.*;
 
 public class DOBValidation {
